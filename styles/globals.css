@@ -1,0 +1,8 @@
+/* Include Tailwind CSS base styles */
+@tailwind base;
+
+/* Include Tailwind CSS pre-defined components */
+@tailwind components;
+
+/* Include Tailwind CSS utility classes */
+@tailwind utilities;
